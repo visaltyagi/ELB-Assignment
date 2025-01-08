@@ -8,3 +8,5 @@ Tasks To Be Performed:
 
 **1.** Create a Classic Load Balancer and register 3 EC2 instances with different web pages running in them.
 **2.** Migrate the Classic Load Balancer into an Application Load Balancer.
+
+**For the detailed solution, please check this link:** 
