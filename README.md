@@ -1,4 +1,4 @@
-# ELB-Assignment-1
+# ELB-Assignment
 How to Create a Classic Load Balancer &amp; Migrate It to the Application Load Balancer - ELB Assignment 1
 
 **Problem Statement:**
